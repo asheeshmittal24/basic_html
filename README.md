@@ -1,6 +1,6 @@
 # basic_html
 basic html  page .
-html>
+<html>
 <head>
 <title>Page Title</title>
 </head>
