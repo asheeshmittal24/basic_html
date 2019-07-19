@@ -4,9 +4,9 @@ basic html  page .
 <head>
 <title>Page Title</title>
 </head>
-<body>
+<body bgcolor =black>
 
-<h1>This is a Heading</h1>
+<h2>This is a Heading</h2>
 <p>This is a paragraph.</p>
 
 </body>
